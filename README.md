@@ -43,7 +43,7 @@
 第一步:
 
 ```shell
-$ composer require fengjisheng/think-jwt
+$ composer require fengjisheng/think-jwt-auth
 ```
 
 第二步:
