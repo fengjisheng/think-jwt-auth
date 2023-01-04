@@ -1,5 +1,5 @@
 {
-    "name": "fengjisheng/think-jwt",
+    "name": "fengjisheng/think-jwt-auth",
     "description": "thinkphp  jwt auth composer",
     "type": "library",
     "require": {
